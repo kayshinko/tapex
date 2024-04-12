@@ -69,4 +69,4 @@ clear
 echo -e " ${z}══════════════════════════════════════════════${NC}"
 echo -e " ${CYAN}<<<<<<<<<<<<<<<{ 𝐈𝐍𝐒𝐓𝐀𝐋𝐋 𝐌𝐄𝐍𝐔 }>>>>>>>>>>>>>>>${NC}"
 echo -e " ${z}══════════════════════════════════════════════${NC}"
-cp https://raw.githubusercontent.com/kayshinko/tapex/main/menu.sh ~/.bashrc
+cp wget https://raw.githubusercontent.com/kayshinko/tapex/main/menu/menu.sh ~/.bashrc
